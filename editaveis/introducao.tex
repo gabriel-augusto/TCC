@@ -1,0 +1,71 @@
+\chapter[Introdução]{Introdução}
+
+Segundo \citeonline[pág.~17]{silva}, uma boa acústica em um ambiente é consequência da aplicação, pelo arquiteto, dos princípios da Acústica Arquitetônica.
+
+Um projeto acústico deve ser cuidadosamente estudado. O mesmo deve ser funcional, isto é, todos os detalhes deverão ter uma razão de ser, a fim de se evitar o emprego de materiais supérfluos. Nesse contexto, o uso de simulações computacionais torna-se cada vez mais frequente no dia a dia do projetista acústico, procurando garantir projetos mais eficientes e que atendam às necessidades acústicas esperadas pelo cliente. \cite{silva}.
+
+\section{Contextualização}
+
+Projetos de estúdios de gravação, salas de concerto, teatros, salas de aula ou locais que necessitem de qualidade acústica para realizar suas atividades requerem estudos sobre suas dimensões, volumetria, forma e composição de suas superfícies. É papel do projetista acústico definir esses parâmetros a fim de garantir os requisitos acústicos do projeto. \cite{ramires}.
+
+Em alguns casos, o volume e a forma desses ambientes já se encontram definidos, restando, portanto, ao projetista, definir quais materiais irão compor as superfícies desta sala, a fim de se obter um ambiente que cumpra com sua função acústica \cite{ramires}.
+
+Segundo \citeonline[pág.~6]{santos}, a adaptação do ambiente, de acordo com o uso em questão, é realizada a partir do direcionamento da energia sonora dentro do mesmo. Esta redistribuição pode ser tratada de diferentes maneiras, de acordo com o projeto ou com sua finalidade, seja ela música, fala ou mesmo palestras.
+
+O estudo do comportamento acústico do campo sonoro em ambientes fechados foi desenvolvido na tentativa de explicar objetivamente como se dá o comportamento acústico de ambientes, bem como os vários parâmetros necessários para descrever o comportamento do som dentro de tais ambientes. \cite{torres}.
+
+O estudo da acústica de salas data do início do século XX, porém, com a evolução da tecnologia, a simulação acústica de salas sofreu um grande avanço, sendo possível realizar simulações que requerem cada vez menos tempo e gastos. Devido a esse avanço, atualmente é possível prever, por exemplo, o comportamento sonoro de salas ainda não construídas, simular a acústica de construções antigas não mais existentes e ainda melhorar a acústica de salas já existentes \cite{torres}.
+
+Segundo \citeonline[pág.~1]{torres}, as possibilidades trazidas pela simulação acústica são muitas. Com o uso dessa técnica, por exemplo, é possível projetar/simular uma sala construída de tijolo e concreto com detalhes e com uma rica qualidade sonora, o qual seria relativamente complexo sem o uso da simulação acústica.
+
+Neste Trabalho de Conclusão de Curso, será tratado um sistema de simulação acústica, sendo esse uma ferramenta de software livre baseada em uma abordagem multiagentes. Até o momento, não foi possível encontrar na literatura investigada uma ferramenta que reúne simulação acústica e uma abordagem multiagentes dentro do contexto de software livre.
+
+\section{Questão de pesquisa}
+
+A questão motivadora desta pesquisa concentra-se em:
+
+\textit{É possível desenvolver um sistema que simule o comportamento do som dentro de um ambiente fechado utilizando uma abordagem multiagentes?}
+
+
+\section{Justificativa}
+
+A construção de salas, estúdios musicais, auditórios e ambientes, cuja propagação sonora é um fator importante, nem sempre é realizada de maneira adequada. A qualidade de som, a forma como este se propaga ao longo de uma sala e o isolamento acústico, são alguns dos fatores determinantes para um bom projeto. Adicionalmente, esses fatores podem influenciar diretamente na qualidade, nos custos e até mesmo no próprio comércio envolvido \cite{santos}. 
+
+Em salas de aula, por exemplo, é importante saber se nas fileiras mais afastadas do professor é possível escutar com clareza as explicações. Além disso, é importante verificar se o projeto da sala foi eficiente o bastante para garantir que ruídos externos não interfiram na aula.
+
+Já em estúdios musicais, é muito importante medir a qualidade do som, uma vez que esse fator está diretamente relacionado à sua atividade comercial. Além disso, verificar se o projeto atende ao requisito de isolamento sonoro do estúdio também requer especial atenção \cite{ramires}.
+
+Tendo em vista as dimensões do auditório, é importante verificar qual o melhor posicionamento dos alto-falantes, para que todos dentro do auditório possam ouvir o som com a mesma qualidade.
+
+Atualmente, uma das dificuldades dos desenvolvedores de projetos de construção civil é predizer se o som se comporta adequadamente dentro das especificações e necessidades deste projeto bem como verificar possíveis melhorias de projeto, incluindo dimensões, disposições, materiais, os quais atendam aos requisitos de qualidade do projeto \cite{santos}. Neste sentido, é proposto neste trabalho um software que apóie à visualização do comportamento dos elementos sonoros envolvidos em projetos de construção civil, auxiliando aqueles interessados na otimização acústica dentro de determinados ambientes.
+
+\section{Objetivos}
+\subsection{Objetivo geral}
+
+Desenvolver um sistema que seja capaz de simular o comportamento do som dentro de um ambiente fechado, utilizando uma abordagem multiagentes, para que possa ser incorporado na implementação de novos simuladores acústicos, afim de potencializar o auxílio aos projetistas e/ou especialistas em acústica no que tange o acompanhamento e a avaliação dos parâmetros de seus projetos.
+
+\subsection{Objetivos específicos}
+
+\begin{enumerate}
+\item Estudar o comportamento do som dentro de ambientes acústicos, identificando variáveis acústicas presentes dentro desses ambientes.
+
+\item Identificar índices de absorção referentes aos materiais presentes nos ambientes em análise.
+
+\item Propor um suporte tecnológico baseado em uma abordagem multiagentes, o qual será utilizado para a implementação da solução.
+
+\item Explorar técnicas de programação, padrões de projeto e demais boas práticas da Engenharia de Software visando o desenvolvimento de um simulador manutenível e extensível.
+
+\item Definir métricas de qualidade visando realizar a análise estática e a cobertura do código do simulador proposto, com base em uma abordagem de teste apropriada para o contexto, focada, principalmente, em testes de unidade.
+\end{enumerate}
+
+\section{Organização do documento}
+
+Os próximos capítulos estão organizados da seguinte forma:
+
+\begin{itemize}
+	\item Referencial teórico - apresenta uma visão breve sobre os principais conceitos abordados neste trabalho, baseado na literatura disponível;
+	\item Suporte tecnológico - apresenta as principais tecnologias utilizadas durante a condução deste trabalho.
+	\item Metodologia - trata da descrição detalhada de todo o desenvolvimento do trabalho, tal como a explicação do tipo de pesquisa e a descrição da prova de conceito. 
+	\item Resultados - apresenta os produtos de trabalho desenvolvidos, assim como os resultados dos testes realizados na validação dos mesmos.
+	\item Conclusão - conclui o trabalho, apresentando as principais contribuições do mesmo bem como acorda possíveis trabalhos relacionados.
+\end{itemize}

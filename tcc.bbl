@@ -1,0 +1,199 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.2 }
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 1992]{NBR12179:1992}
+\abntrefinfo{NBR-12179}{NBR-12179}{1992}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \emph{{NBR} 12179}:
+  Tratamento acústico em recintos fechados --- referências.
+Rio de Janeiro, 1992.}
+
+\bibitem[Bastos, Cardoso e Melo 2010]{bastos}
+\abntrefinfo{Bastos, Cardoso e Melo}{BASTOS; CARDOSO; MELO}{2010}
+{BASTOS, L.~P.; CARDOSO, H. F.~S.; MELO, G. d. S.~V. de. An{\'a}lise
+  num{\'e}rica e experimental dos par{\^a}metros ac{\'u}sticos de uma sala de
+  aula da universidade federal do par{\'a}.
+Campina Grande - Paraíba, 2010.}
+
+\bibitem[Bistafa 2006]{bistafa}
+\abntrefinfo{Bistafa}{BISTAFA}{2006}
+{BISTAFA, S. \emph{Acústica aplicada ao controle do ruído}. [S.l.]: Edgard
+  Bl{\"u}cher, 2006.
+ISBN 9788521203766.}
+
+\bibitem[Camilo, Tenenbaum e Coelho 2002]{camilo}
+\abntrefinfo{Camilo, Tenenbaum e Coelho}{CAMILO; TENENBAUM; COELHO}{2002}
+{CAMILO, T.~S.; TENENBAUM, R.~A.; COELHO, J. L.~B. Engenharia ac{\'u}stica
+  auxiliada por computador: um m{\'e}todo h{\'\i}brido para simula{\c{c}}{\~a}o
+  de ac{\'u}stica de salas.
+\emph{Anais do SEMEA}, 2002.}
+
+\bibitem[Carvalho 2003]{carvalho}
+\abntrefinfo{Carvalho}{CARVALHO}{2003}
+{CARVALHO, D. D. T.~d. Metodologia de an{\'a}lise do desempenho da usina de
+  concentra{\c{c}}{\~a}o da samarco minera{\c{c}}{\~a}o sa baseada em
+  simula{\c{c}}{\~a}o das opera{\c{c}}{\~o}es.
+Programa de P{\'o}s-Gradua{\c{c}}{\~a}o em Engenharia Mineral. Departamento de
+  Engenharia de Minas, Escola de Minas, Universidade Federal de Ouro Preto.,
+  2003.}
+
+\bibitem[Figueiredo 2005]{figueiredo}
+\abntrefinfo{Figueiredo}{FIGUEIREDO}{2005}
+{FIGUEIREDO, F.~L.
+\emph{Par{\^a}metros ac{\'u}sticos subjetivos: Crit{\'e}rios para
+  avalia{\c{c}}{\~a}o da qualidade ac{\'u}stica de salas de m{\'u}sica}.
+Tese (Doutorado), 2005.}
+
+\bibitem[Filho 2013]{kalibro}
+\abntrefinfo{Filho}{FILHO}{2013}
+{FILHO, C.~M. de O.
+\emph{Kalibro: interpreta{\c{c}}{\~a}o de m{\'e}tricas de c{\'o}digo-fonte}.
+Tese (Doutorado) --- Universidade de S{\~a}o Paulo, 2013.}
+
+\bibitem[Fran{\c{c}}a et al. 2012]{franca}
+\abntrefinfo{Fran{\c{c}}a et al.}{FRAN{\c{C}}A et al.}{2012}
+{FRAN{\c{C}}A, R.~M. et al. An{\'a}lise comparativa entre as plataformas
+  multiagentes jade e fipa-os.
+Acedido em Abril de 2012.}
+
+\bibitem[Gil 2002]{gil}
+\abntrefinfo{Gil}{GIL}{2002}
+{GIL, A.~C. \emph{Como elaborar projetos de pesquisa}. São Paulo, Brasil:
+  Atlas, 2002.}
+
+\bibitem[Law e Kelton 1991]{law}
+\abntrefinfo{Law e Kelton}{LAW; KELTON}{1991}
+{LAW, A.~M.; KELTON, W.~D. \emph{Simulation modeling and analysis}. [S.l.]:
+  McGraw-Hill New York, 1991.}
+
+\bibitem[Meirelles 2013]{meirelles}
+\abntrefinfo{Meirelles}{MEIRELLES}{2013}
+{MEIRELLES, P. R.~M.
+\emph{Monitoramento de m{\'e}tricas de c{\'o}digo-fonte em projetos de software
+  livre}.
+Tese (Doutorado) --- Universidade de S{\~a}o Paulo, 2013.}
+
+\bibitem[Neto 2007]{loschi}
+\abntrefinfo{Neto}{NETO}{2007}
+{NETO, A. L. An{\'a}lise do som transmitido por madeiras de diferentes
+  densidades.
+Universidade Federal de Lavras, 2007.}
+
+\bibitem[OFUGI, A e A 2013]{fabiana}
+\abntrefinfo{OFUGI, A e A}{OFUGI; A; A}{2013}
+{OFUGI, F. M.~A.; A, C. J.~E.; A, G. M.~H. Simulação acústica em ambientes
+  fechados utilizando o método do traçado de raios e fontes virtuais.
+Faculdade do Gama – Universidade de Brasília, 2013.}
+
+\bibitem[Ramires 2011]{ramires}
+\abntrefinfo{Ramires}{RAMIRES}{2011}
+{RAMIRES, F. Coeficiente de espalhamento sonoro de painéis perfurados.
+  dissertação (mestrado).
+Faculdade de Engenharia Civil, Arquitetura e Urbanismo, Universidade Estatual
+  de Campinas, São Paulo, 2011.
+Dispon{\'\i}vel em:
+  \url{http://www.bibliotecadigital.unicamp.br/document/?code=000811191&fd=y}.}
+
+\bibitem[Rezende 2003]{rezende}
+\abntrefinfo{Rezende}{REZENDE}{2003}
+{REZENDE, J.~L.
+\emph{Aplicando t{\'e}cnicas de comunica{\c{c}}ao para a facilita{\c{c}}ao de
+  debates no ambiente AulaNet}.
+Tese (Doutorado) --- Disserta{\c{c}}{\~a}o de Mestrado, PUC-Rio, 2003.}
+
+\bibitem[Rocha 2012]{rocha}
+\abntrefinfo{Rocha}{ROCHA}{2012}
+{ROCHA, T.~L. Viabilidade da utiliza{\c{c}}{\~a}o da pesquisa-a{\c{c}}{\~a}o em
+  situa{\c{c}}{\~o}es de ensino-apendizagem.
+\emph{Cadernos da FUCAMP}, v.~11, n.~14, 2012.}
+
+\bibitem[Santos 2011]{santos}
+\abntrefinfo{Santos}{SANTOS}{2011}
+{SANTOS, C. dos. Influência do espalhamento acústico na percepção auditiva
+  de espaços: métodos e desenvolvimentos.
+Campinas, SP, 2011.}
+
+\bibitem[Schriber 1974]{schriber}
+\abntrefinfo{Schriber}{SCHRIBER}{1974}
+{SCHRIBER, T.~J. \emph{Simulation using GPSS}.
+[S.l.], 1974.}
+
+\bibitem[Schwaber e Beedle 2002]{schwaber}
+\abntrefinfo{Schwaber e Beedle}{SCHWABER; BEEDLE}{2002}
+{SCHWABER, K.; BEEDLE, M. gil{\`e} software development with scrum.
+2002.}
+
+\bibitem[Silva 2003]{leonardo}
+\abntrefinfo{Silva}{SILVA}{2003}
+{SILVA, L. d.~M. Estudo e desenvolvimento de sistemas multiagentes usando jade:
+  Java agent development framework.
+\emph{Trabalho de Conclus{\~a}o de Curso (Gradua{\c{c}}{\~a}o em Ci{\^e}ncias
+  da Computa{\c{c}}{\~a}o)--Centro Tecnol{\'o}gico. Universidade Federal de
+  Pernambuco, Pernambuco}, 2003.}
+
+\bibitem[Silva 1971]{silva}
+\abntrefinfo{Silva}{SILVA}{1971}
+{SILVA, P. \emph{Acústica arquitetônica}. Belo Horizonte, MG: Edições
+  Engenharia e Arquitetura, 1971.  (Publicação (Universidade Federal de Minas
+  Gerais)).}
+
+\bibitem[Silva e Tafner 2006]{tafner}
+\abntrefinfo{Silva e Tafner}{SILVA; TAFNER}{2006}
+{SILVA, R.; TAFNER, E.~P. Apostila de metodologia científica.
+Associação Educacional do Vale do Itajaí-Mirim, 2006.
+Dispon{\'\i}vel em:
+  \url{http://www.teses.usp.br/teses/disponiveis/18/18149/tde-2592012-204752/}.}
+
+\bibitem[Thiollent 1986]{thiollent}
+\abntrefinfo{Thiollent}{THIOLLENT}{1986}
+{THIOLLENT, M. Metodologia da pesquisa-a{\c{c}}{\~a}o. In:  \emph{Metodologia
+  da pesquisa-a{\c{c}}{\~a}o}. [S.l.]: Cortez, 1986.}
+
+\bibitem[Thomaz 2011]{thomaz}
+\abntrefinfo{Thomaz}{THOMAZ}{2011}
+{THOMAZ, L.~F.
+\emph{Um arcabouço para construção de sistemas multiagentes musicais}.
+Tese (Doutorado) --- Universidade de Sao Paulo, 2011.
+Dispon{\'\i}vel em:
+  \url{http://www.teses.usp.br/teses/disponiveis/45/45134/tde-13082011-113109/}.}
+
+\bibitem[TONI 2006]{tonicenarios}
+\abntrefinfo{TONI}{TONI}{2006}
+{TONI, J. Cen{\'a}rios e an{\'a}lise estrat{\'e}gica: quest{\~o}es
+  metodol{\'o}gicas.
+\emph{Rev. Espa{\c{c}}o}, 2006.}
+
+\bibitem[TORGA 2007]{torga}
+\abntrefinfo{TORGA}{TORGA}{2007}
+{TORGA, B. L.~M.
+\emph{Modelagem, simula{\c{c}}{\~a}o e otimiza{\c{c}}{\~a}o em sistemas puxados
+  de manufatura}.
+Tese (Doutorado) --- UNIVERSIDADE FEDERAL DE ITAJUB{\'A}, 2007.}
+
+\bibitem[Torres 2008]{torres}
+\abntrefinfo{Torres}{TORRES}{2008}
+{TORRES, M. H.~C. Simulação acústica no ambiente acmus. dissertação
+  (mestrado em ciência da computação).
+Instituto de Matemática e Estatística, Universidade de São Paulo, São
+  Paulo, 2008.
+Dispon{\'\i}vel em:
+  \url{http://www.teses.usp.br/teses/disponiveis/45/45134/tde-09092009-103134/}.}
+
+\bibitem[Weiss 1999]{multiagentes2}
+\abntrefinfo{Weiss}{WEISS}{1999}
+{WEISS, G. \emph{Multiagent Systems: A Modern Approach to Distributed
+  Artificial Intelligence}. MIT Press, 1999.  (Intelligent Robotics and
+  Autonomous Agents Series).
+ISBN 9780262731317. Dispon{\'\i}vel em:
+  \url{http://books.google.com.br/books?id=JYcznFCN3xcC}.}
+
+\bibitem[Wooldridge 2009]{multiagentes}
+\abntrefinfo{Wooldridge}{WOOLDRIDGE}{2009}
+{WOOLDRIDGE, M. \emph{An Introduction to MultiAgent Systems}. Wiley, 2009.
+ISBN 9780470519462. Dispon{\'\i}vel em:
+  \url{http://books.google.com.br/books?id=X3ZQ7yeDn2IC}.}
+
+\end{thebibliography}

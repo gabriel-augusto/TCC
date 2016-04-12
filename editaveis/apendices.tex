@@ -1,0 +1,97 @@
+% Define cores em RGB
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+ 
+% Configuração para exibir código e C++
+\lstset{
+language = Java, % Linguagem de programação
+basicstyle = \footnotesize, % Tamanho da fonte do código
+numbers = left, % Posição da numeração das linhas
+numberstyle = \tiny\color{blue}, % Estilo da numeração de linhas
+stepnumber = 1, % Numeração das linhas ocorre a cada quantas linhas?
+numbersep = 10pt, % Distância entre a numeração das linhas e o código
+backgroundcolor = \color{white}, % Cor de fundo
+showspaces = false, % Exibe espaços com um sublinhado
+showstringspaces = false, % Sublinha espaços em Strings
+showtabs = false, % Exibe tabulação com um sublinhado
+frame = trBL, % Envolve o código com uma moldura, pode ser single ou trBL
+rulecolor = \color{black}, % Cor da moldura
+tabsize = 2, % Configura tabulação em x espaços
+captionpos = b, % Posição do título pode ser t (top) ou b (bottom)
+breaklines = true, % Configura quebra de linha automática
+breakatwhitespace= false, % Configura quebra de linha
+title = \lstname, % Exibe o nome do arquivo incluido
+%caption = \lstname, % Também é possível usar caption no lugar de title
+keywordstyle = \color{blue}, % Estilo das palavras chaves
+commentstyle = \color{dkgreen}, % Estilo dos Comentários
+stringstyle = \color{mauve}, % Estilo de Strings
+escapeinside = {\%*}{*)}, % Permite adicionar comandos LaTeX dentro do seu código
+morekeywords     ={*,...} % Se quiser adicionar mais palavras-chave
+}
+
+\begin{apendicesenv}
+
+\partapendices
+\begin{comment}
+\chapter{Documento de Arquitetura}
+
+\section{Introdução}
+Este documento apresenta a arquitetura proposta para o . A arquitetura é apresentada através de um conjunto de visões que juntas visam cobrir os principais aspectos técnicos relativos ao desenvolvimento e implantação do sistema em questão. O objetivo é capturar e formalizar as principais decisões tomadas com relação à arquitetura do sistema.
+
+Neste documento é detalhado as principais partes da arquitetura implementada para a Ferramenta de Software desenvolvida. A arquitetura é composta por padrões de projetos orientados a objetos e por agentes comportamentais de Software. O Padrão Arquitetural adotado é o Model-View-Controller adaptado ao uso do paradigma Orientado a Agentes Comportamentais. Este documento contém ainda, uma proposta de refatoração
+arquitetural no tocante aos Agentes implementados, tais sugestões foram obtidas através da experiência do desenvolvedor com o paradigma e como ele é interpretado pela plataforma JADE.
+
+...
+\end{comment}
+% ------------------------------------------ CÓDIGO ------------------------------------- %
+
+\chapter{Código fonte da classe Ambient}
+
+\lstinputlisting[language=java]{src/simulator/agents/Ambient.java}
+
+\chapter{Código fonte da classe SoundSource}
+
+\lstinputlisting[language=java]{src/simulator/agents/SoundSource.java}
+
+
+\chapter{Código fonte da classe Sound}
+
+\lstinputlisting[language=java]{src/simulator/agents/Sound.java}
+
+\chapter{Código fonte da classe Obstacle}
+
+\lstinputlisting[language=java]{src/simulator/objects/Obstacle.java}
+
+
+\chapter{Código fonte da classe Line}
+
+\lstinputlisting[language=java]{src/simulator/objects/Line.java}
+
+
+\chapter{Código fonte da classe NormalLine}
+
+\lstinputlisting[language=java]{src/simulator/objects/NormalLine.java}
+
+
+\chapter{Código fonte da classe VerticalLine}
+
+\lstinputlisting[language=java]{src/simulator/objects/VerticalLine.java}
+
+\chapter{Código fonte da classe Location}
+
+\lstinputlisting[language=java]{src/simulator/objects/Location.java}
+
+\chapter{Código fonte da classe SoundObject}
+
+\lstinputlisting[language=java]{src/simulator/objects/SoundObject.java}
+
+\chapter{Código fonte da classe SoundSourceObject}
+
+\lstinputlisting[language=java]{src/simulator/objects/SoundSourceObject.java}
+
+\chapter{Código fonte da classe AmbientObject}
+
+\lstinputlisting[language=java]{src/simulator/objects/AmbientObject.java}
+
+\end{apendicesenv}
